@@ -1,0 +1,1 @@
+{"version":1,"pages404":true,"basePath":"","redirects":[],"rewrites":[],"headers":[],"dynamicRoutes":[{"page":"/book/[name]","regex":"^\\/book\\/([^\\/]+?)(?:\\/)?$"}],"dataRoutes":[{"page":"/book/[name]","dataRouteRegex":"^\\/_next\\/data\\/yhH1rOQY8_SAemhY6Ueqj\\/book\\/([^\\/]+?)\\.json$"}]}
